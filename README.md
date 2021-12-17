@@ -1,6 +1,6 @@
 # MMM-PIR-Compliments
 This is an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror). It uses the USER_PRESENCE notification of [MMM-PIR-Sensor](https://github.com/paviro/MMM-PIR-Sensor) to display the compliments module for a specified time.
-This module is based on https://github.com/semox/MMM-NearCompliments
+This module is simplified version of https://github.com/semox/MMM-NearCompliments
 
 ## Installation
 1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/QB4-dev/MMM-PIR-Compliments`.
